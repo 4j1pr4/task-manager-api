@@ -22,3 +22,10 @@ Table: tasks
 ## Notes
 Focus on Backend REST API design.
 Frontend not implemented yet.
+
+## How to run (Optional)
+1. Install Node.js
+2. npm install
+3. node server.js
+
+Note: Setup environment belum dijalankan pada test ini
